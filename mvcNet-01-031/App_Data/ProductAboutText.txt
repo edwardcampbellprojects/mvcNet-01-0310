@@ -1,0 +1,23 @@
+﻿
+    1. Templates: mvc_ApecClientCalendar, mvcApecProviderServices
+        a) Site.css (from poc_CSS)
+        b) C# Extensions
+        c) CustomErrors
+        d) AppLog 
+            i. .net FX NLog
+            ii. (.net CORE Serilog/Seq)
+        e) GlobalAsax.cs: App_Status
+        f) mvc default Editor replacements
+        g) Popup Prompt/Status/Log
+1.15.2021
+        h) T4 for List(sort, filter: view, edit, delete, export)
+        i) AppConfig, AppSettings, cookies, connectionStrings, appLists
+        j) AppServices (placeholder)
+            i. //AppLists
+        k) AppEmail (Fluent)
+        l) AppIAM
+            i. ADFS
+            ii. Okta
+        m) I18N Resources
+        n) poc_FontAwesome
+           

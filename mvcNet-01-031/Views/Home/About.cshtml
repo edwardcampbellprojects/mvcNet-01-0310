@@ -1,0 +1,40 @@
+﻿@{
+    ViewBag.Title = $"About mvcNet_01_031";
+
+    string productName = ViewBag.ProductName == null ? "[unknown]" : ViewBag.ProductName;
+    string productVersion = ViewBag.ProductVersion == null ? "[unknown]" : ViewBag.ProductVersion;
+    string productBuildDateTime = ViewBag.ProductBuildDateTime == null ? "[unknown]" : ViewBag.ProductBuildDateTime;
+    string [] productAboutText = ViewBag.ProductAboutText == null ? "[unknown]" : ViewBag.ProductAboutText;
+
+    string aboutText = string.Empty;
+    foreach (string line in productAboutText)
+    {
+        aboutText += $"{line}{Environment.NewLine}";
+    }
+}
+<div class="container row pageHeadline-MarginTop">
+    <h2>@ViewBag.Title</h2>
+</div>
+
+<div class="container row">
+    <h3>@ViewBag.Message</h3>
+</div>
+<hr />
+
+<div class="container row">
+    <h4>Executing assembly @productName, version @productVersion, built at: @productBuildDateTime</h4>
+</div>
+<hr />
+
+<div class="container row">
+    <div class="col-md-12">
+        <div>
+            @Html.TextArea("aboutText", aboutText, 32, 300, new { style="max-width:560px; min-width:380px;"})
+        </div>
+    </div>
+</div>
+
+<div class="container row">
+    <p>[bs 4.5.3, jq 3.5.1 pp 1.16.1]</p>
+</div>
+

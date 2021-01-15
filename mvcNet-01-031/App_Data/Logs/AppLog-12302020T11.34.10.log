@@ -1,0 +1,47 @@
+2020-12-24 16:55:27.7389 - INFO: mvcNet-01, Version=1.0.49.49, Culture=neutral, PublicKeyToken=null v.1.0.49.49 START
+2020-12-24 16:55:27.7848 - TRACE: Test1 Trace Log Entry
+2020-12-24 16:55:27.7848 - DEBUG: Test2 Debug Log Entry
+2020-12-24 16:55:27.7848 - INFO: Test3 Info Log Entry
+2020-12-24 16:55:27.7848 - WARN: Test4 Warning Log Entry
+2020-12-24 16:55:27.7848 - ERROR: Test5 Error Log Entry
+2020-12-24 16:55:27.7908 - FATAL: Test6 Fatal Log Entry
+2020-12-24 16:55:27.8596 - TRACE: Session_Start
+2020-12-24 16:55:27.8995 - TRACE: [::1.UNKNOWN] Home.Contact()
+2020-12-24 16:56:14.5253 - TRACE: [::1.UNKNOWN] Home.Contact()
+2020-12-24 16:58:32.9107 - TRACE: [::1.UNKNOWN] Home.Contact()
+2020-12-24 16:59:13.1263 - TRACE: [::1.UNKNOWN] Home.Contact()
+2020-12-24 17:00:23.0730 - TRACE: [::1.UNKNOWN] Home.Contact()
+2020-12-24 17:00:25.5091 - TRACE: [::1.UNKNOWN] Home.Contact()
+2020-12-24 17:00:54.6331 - TRACE: [::1.UNKNOWN] Home.Contact()
+2020-12-24 17:01:23.7384 - TRACE: [::1.UNKNOWN] Home.Contact()
+2020-12-24 17:02:16.9876 - TRACE: [::1.UNKNOWN] Home.Contact()
+2020-12-24 17:02:40.9396 - TRACE: [::1.UNKNOWN] Home.Contact()
+2020-12-24 17:03:12.3810 - TRACE: [::1.UNKNOWN] Home.Contact()
+2020-12-24 17:03:32.5978 - TRACE: [::1.UNKNOWN] Home.Contact()
+2020-12-24 17:04:22.7872 - TRACE: [::1.UNKNOWN] Home.Contact()
+2020-12-24 17:05:35.8297 - TRACE: [::1.UNKNOWN] Home.Contact()
+2020-12-24 17:05:51.3458 - TRACE: [::1.UNKNOWN] Home.Contact()
+2020-12-24 17:07:40.5429 - TRACE: [::1.UNKNOWN] Home.Contact()
+2020-12-24 17:08:12.0260 - TRACE: Session_End
+2020-12-24 17:08:12.0260 - INFO: FileStreamSite_FileManager Application End
+2020-12-24 17:08:17.1706 - INFO: mvcNet-01, Version=1.0.49.49, Culture=neutral, PublicKeyToken=null v.1.0.49.49 START
+2020-12-24 17:08:17.2051 - TRACE: Test1 Trace Log Entry
+2020-12-24 17:08:17.2051 - DEBUG: Test2 Debug Log Entry
+2020-12-24 17:08:17.2051 - INFO: Test3 Info Log Entry
+2020-12-24 17:08:17.2051 - WARN: Test4 Warning Log Entry
+2020-12-24 17:08:17.2051 - ERROR: Test5 Error Log Entry
+2020-12-24 17:08:17.2051 - FATAL: Test6 Fatal Log Entry
+2020-12-24 17:08:17.2481 - TRACE: Session_Start
+2020-12-24 17:08:17.2869 - TRACE: [::1.UNKNOWN] Home.Contact()
+2020-12-24 17:08:39.3323 - TRACE: [::1.UNKNOWN] Home.Contact()
+2020-12-24 17:09:24.3555 - TRACE: [::1.UNKNOWN] Home.Contact()
+2020-12-24 17:09:50.0634 - TRACE: [::1.UNKNOWN] Home.Contact()
+2020-12-24 17:10:15.6608 - TRACE: [::1.UNKNOWN] Home.Contact()
+2020-12-24 17:11:19.5477 - TRACE: [::1.UNKNOWN] Home.Contact()
+2020-12-24 17:11:51.0534 - TRACE: [::1.UNKNOWN] Home.Contact()
+2020-12-24 17:12:51.8446 - TRACE: [::1.UNKNOWN] Home.Contact()
+2020-12-24 17:13:30.0700 - TRACE: [::1.UNKNOWN] Home.About()
+2020-12-24 17:14:09.8292 - TRACE: [::1.UNKNOWN] Home.Contact()
+2020-12-24 17:31:17.1873 - TRACE: [::1.UNKNOWN] Home.Contact()
+2020-12-24 17:51:21.3964 - TRACE: Session_End
+2020-12-24 18:24:28.8462 - INFO: FileStreamSite_FileManager Application End

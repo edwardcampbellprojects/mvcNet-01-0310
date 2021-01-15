@@ -1,0 +1,16 @@
+2020-12-30 11:34:11.0084 - INFO: mvcNet-01, Version=1.0.50.50, Culture=neutral, PublicKeyToken=null v.1.0.50.50 START
+2020-12-30 11:34:11.0572 - TRACE: Test1 Trace Log Entry
+2020-12-30 11:34:11.0592 - DEBUG: Test2 Debug Log Entry
+2020-12-30 11:34:11.0592 - INFO: Test3 Info Log Entry
+2020-12-30 11:34:11.0592 - WARN: Test4 Warning Log Entry
+2020-12-30 11:34:11.0592 - ERROR: Test5 Error Log Entry
+2020-12-30 11:34:11.0592 - FATAL: Test6 Fatal Log Entry
+2020-12-30 11:34:11.1316 - TRACE: Session_Start
+2020-12-30 11:34:11.1744 - TRACE: [::1.UNKNOWN] Home.Index()
+2020-12-30 11:34:21.7995 - TRACE: [::1.UNKNOWN] Home.Contact()
+2020-12-30 11:54:40.6902 - TRACE: Session_End
+2020-12-30 12:22:11.5117 - TRACE: Session_Start
+2020-12-30 12:22:11.5188 - ERROR: Application Error
+2020-12-30 12:22:11.5188 - INFO: Last Server Error [The controller for path '/Account/Login' was not found or does not implement IController.] [no inner exception]
+2020-12-30 12:22:17.0388 - TRACE: [::1.UNKNOWN] Home.Contact()
+2020-12-30 12:42:22.3797 - TRACE: Session_End

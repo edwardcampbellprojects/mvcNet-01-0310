@@ -1,0 +1,20 @@
+﻿@* Partial View to retrieve and format current status message *@
+@{
+    string status = string.Empty;
+    string statusClass = string.Empty;
+    if ((null != Session["Status"]) && (!(bool)Session["StatusShown"] || ((bool)Session["StatusPersist"])))
+    {
+        status = Session["Status"].ToString();
+        statusClass = Session["StatusClass"].ToString();
+        Session["StatusShown"] = true;
+    }
+}
+<div class="col-md-12">
+    <h4 class="@statusClass" style="margin-bottom:1.0em; margin-left:15px; width:98%">@status</h4>
+    @{
+        @*if (@status.Length > 0)
+        {
+            <hr style="width:83%"/>
+        }*@
+    }
+</div>

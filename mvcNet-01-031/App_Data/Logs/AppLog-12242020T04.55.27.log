@@ -1,0 +1,22 @@
+2020-12-23 16:07:50.2816 - INFO: mvcNet-01, Version=1.0.46.46, Culture=neutral, PublicKeyToken=null v.1.0.46.46 START
+2020-12-23 16:07:50.3234 - TRACE: Test1 Trace Log Entry
+2020-12-23 16:07:50.3234 - DEBUG: Test2 Debug Log Entry
+2020-12-23 16:07:50.3234 - INFO: Test3 Info Log Entry
+2020-12-23 16:07:50.3234 - WARN: Test4 Warning Log Entry
+2020-12-23 16:07:50.3234 - ERROR: Test5 Error Log Entry
+2020-12-23 16:07:50.3234 - FATAL: Test6 Fatal Log Entry
+2020-12-23 16:07:50.4182 - TRACE: Session_Start
+2020-12-23 16:07:50.4591 - TRACE: [::1.UNKNOWN] Home.Index()
+2020-12-23 16:08:04.6806 - TRACE: [::1.UNKNOWN] Home.About()
+2020-12-23 16:08:08.3043 - TRACE: [::1.UNKNOWN] Home.Contact()
+2020-12-23 16:08:18.6182 - TRACE: [::1.UNKNOWN] Home.About()
+2020-12-23 16:08:21.1361 - TRACE: [::1.UNKNOWN] Home.Index()
+2020-12-23 16:15:06.8838 - INFO: mvcNet-01, Version=1.0.46.46, Culture=neutral, PublicKeyToken=null v.1.0.46.46 START
+2020-12-23 16:15:06.9187 - TRACE: Test1 Trace Log Entry
+2020-12-23 16:15:06.9187 - DEBUG: Test2 Debug Log Entry
+2020-12-23 16:15:06.9187 - INFO: Test3 Info Log Entry
+2020-12-23 16:15:06.9187 - WARN: Test4 Warning Log Entry
+2020-12-23 16:15:06.9187 - ERROR: Test5 Error Log Entry
+2020-12-23 16:15:06.9187 - FATAL: Test6 Fatal Log Entry
+2020-12-23 16:15:06.9882 - TRACE: Session_Start
+2020-12-23 16:15:07.0291 - TRACE: [::1.UNKNOWN] Home.Index()

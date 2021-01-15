@@ -1,0 +1,95 @@
+2021-01-15 16:51:16.7782 - INFO: mvcNet_01_031 v.1.0.71.71 Application START
+2021-01-15 16:51:16.8251 - TRACE: Test1 Trace Log Entry
+2021-01-15 16:51:16.8270 - DEBUG: Test2 Debug Log Entry
+2021-01-15 16:51:16.8270 - INFO: Test3 Info Log Entry
+2021-01-15 16:51:16.8270 - WARN: Test4 Warning Log Entry
+2021-01-15 16:51:16.8270 - ERROR: Test5 Error Log Entry
+2021-01-15 16:51:16.8270 - FATAL: Test6 Fatal Log Entry
+2021-01-15 16:51:16.9557 - TRACE: Session_Start
+2021-01-15 16:51:16.9956 - TRACE: [::1.UNKNOWN] Home.Contact()
+2021-01-15 17:01:55.8018 - INFO: mvcNet_01_031 v.1.0.72.72 Application START
+2021-01-15 17:01:55.8389 - TRACE: Test1 Trace Log Entry
+2021-01-15 17:01:55.8409 - DEBUG: Test2 Debug Log Entry
+2021-01-15 17:01:55.8409 - INFO: Test3 Info Log Entry
+2021-01-15 17:01:55.8409 - WARN: Test4 Warning Log Entry
+2021-01-15 17:01:55.8409 - ERROR: Test5 Error Log Entry
+2021-01-15 17:01:55.8409 - FATAL: Test6 Fatal Log Entry
+2021-01-15 17:01:55.9221 - TRACE: Session_Start
+2021-01-15 17:01:55.9580 - TRACE: [::1.UNKNOWN] Home.Index()
+2021-01-15 17:02:00.1836 - TRACE: [::1.UNKNOWN] Home.About()
+2021-01-15 17:17:33.9699 - INFO: mvcNet_01_031 v.1.0.73.73 Application START
+2021-01-15 17:17:34.0070 - TRACE: Test1 Trace Log Entry
+2021-01-15 17:17:34.0070 - DEBUG: Test2 Debug Log Entry
+2021-01-15 17:17:34.0070 - INFO: Test3 Info Log Entry
+2021-01-15 17:17:34.0070 - WARN: Test4 Warning Log Entry
+2021-01-15 17:17:34.0070 - ERROR: Test5 Error Log Entry
+2021-01-15 17:17:34.0130 - FATAL: Test6 Fatal Log Entry
+2021-01-15 17:17:34.0780 - TRACE: Session_Start
+2021-01-15 17:17:34.1126 - TRACE: [::1.UNKNOWN] Home.About()
+2021-01-15 17:20:04.5636 - TRACE: [::1.UNKNOWN] Home.About()
+2021-01-15 17:21:44.9430 - TRACE: [::1.UNKNOWN] Home.About()
+2021-01-15 17:26:28.6539 - TRACE: [::1.UNKNOWN] Home.About()
+2021-01-15 17:29:49.3811 - INFO: mvcNet_01_031 v.1.0.74.74 Application START
+2021-01-15 17:29:49.4182 - TRACE: Test1 Trace Log Entry
+2021-01-15 17:29:49.4202 - DEBUG: Test2 Debug Log Entry
+2021-01-15 17:29:49.4202 - INFO: Test3 Info Log Entry
+2021-01-15 17:29:49.4202 - WARN: Test4 Warning Log Entry
+2021-01-15 17:29:49.4202 - ERROR: Test5 Error Log Entry
+2021-01-15 17:29:49.4202 - FATAL: Test6 Fatal Log Entry
+2021-01-15 17:29:49.4857 - TRACE: Session_Start
+2021-01-15 17:29:49.5216 - TRACE: [::1.UNKNOWN] Home.About()
+2021-01-15 17:35:53.8176 - TRACE: [::1.UNKNOWN] Home.About()
+2021-01-15 17:36:58.5441 - TRACE: [::1.UNKNOWN] Home.About()
+2021-01-15 17:37:35.4112 - TRACE: [::1.UNKNOWN] Home.About()
+2021-01-15 17:41:33.2864 - INFO: mvcNet_01_031 v.1.0.75.75 Application START
+2021-01-15 17:41:33.3273 - TRACE: Test1 Trace Log Entry
+2021-01-15 17:41:33.3273 - DEBUG: Test2 Debug Log Entry
+2021-01-15 17:41:33.3273 - INFO: Test3 Info Log Entry
+2021-01-15 17:41:33.3273 - WARN: Test4 Warning Log Entry
+2021-01-15 17:41:33.3273 - ERROR: Test5 Error Log Entry
+2021-01-15 17:41:33.3273 - FATAL: Test6 Fatal Log Entry
+2021-01-15 17:41:33.4031 - TRACE: Session_Start
+2021-01-15 17:41:33.4440 - TRACE: [::1.UNKNOWN] Home.About()
+2021-01-15 17:43:26.8736 - TRACE: [::1.UNKNOWN] Home.About()
+2021-01-15 17:43:46.7266 - TRACE: [::1.UNKNOWN] Home.About()
+2021-01-15 17:45:38.4747 - TRACE: [::1.UNKNOWN] Home.About()
+2021-01-15 17:48:12.3860 - INFO: mvcNet_01_031 v.1.0.76.76 Application START
+2021-01-15 17:48:12.4259 - TRACE: Test1 Trace Log Entry
+2021-01-15 17:48:12.4259 - DEBUG: Test2 Debug Log Entry
+2021-01-15 17:48:12.4259 - INFO: Test3 Info Log Entry
+2021-01-15 17:48:12.4259 - WARN: Test4 Warning Log Entry
+2021-01-15 17:48:12.4259 - ERROR: Test5 Error Log Entry
+2021-01-15 17:48:12.4259 - FATAL: Test6 Fatal Log Entry
+2021-01-15 17:48:12.5036 - TRACE: Session_Start
+2021-01-15 17:48:12.5456 - TRACE: [::1.UNKNOWN] Home.About()
+2021-01-15 17:48:31.6937 - TRACE: [::1.UNKNOWN] Home.About()
+2021-01-15 17:49:15.8734 - TRACE: [::1.UNKNOWN] Home.About()
+2021-01-15 17:49:21.6139 - TRACE: [::1.UNKNOWN] Home.About()
+2021-01-15 17:51:28.0106 - TRACE: [::1.UNKNOWN] Home.About()
+2021-01-15 17:53:07.2045 - TRACE: [::1.UNKNOWN] Home.About()
+2021-01-15 17:54:56.0211 - TRACE: [::1.UNKNOWN] Home.About()
+2021-01-15 17:55:38.7354 - TRACE: [::1.UNKNOWN] Home.About()
+2021-01-15 18:24:48.8548 - INFO: mvcNet_01_031 v.1.0.77.77 Application START
+2021-01-15 18:24:48.8931 - TRACE: Test1 Trace Log Entry
+2021-01-15 18:24:48.8931 - DEBUG: Test2 Debug Log Entry
+2021-01-15 18:24:48.8931 - INFO: Test3 Info Log Entry
+2021-01-15 18:24:48.8931 - WARN: Test4 Warning Log Entry
+2021-01-15 18:24:48.8931 - ERROR: Test5 Error Log Entry
+2021-01-15 18:24:48.8931 - FATAL: Test6 Fatal Log Entry
+2021-01-15 18:24:48.9602 - TRACE: Session_Start
+2021-01-15 18:24:49.0001 - TRACE: [::1.UNKNOWN] Home.Index()
+2021-01-15 18:25:01.0810 - TRACE: [::1.UNKNOWN] Home.About()
+2021-01-15 18:25:06.2093 - TRACE: [::1.UNKNOWN] Home.Contact()
+2021-01-15 18:31:29.4350 - INFO: mvcNet_01_031 v.1.0.78.78 Application START
+2021-01-15 18:31:29.4748 - TRACE: Test1 Trace Log Entry
+2021-01-15 18:31:29.4748 - DEBUG: Test2 Debug Log Entry
+2021-01-15 18:31:29.4748 - INFO: Test3 Info Log Entry
+2021-01-15 18:31:29.4748 - WARN: Test4 Warning Log Entry
+2021-01-15 18:31:29.4748 - ERROR: Test5 Error Log Entry
+2021-01-15 18:31:29.4748 - FATAL: Test6 Fatal Log Entry
+2021-01-15 18:31:29.5646 - TRACE: Session_Start
+2021-01-15 18:31:29.6075 - TRACE: [::1.UNKNOWN] Home.Contact()
+2021-01-15 18:32:03.8856 - TRACE: [::1.UNKNOWN] Home.Contact()
+2021-01-15 18:32:44.2655 - ERROR: Application Error
+2021-01-15 18:32:44.2655 - INFO: Last Server Error [The controller for path '/Account/Login' was not found or does not implement IController.] [no inner exception]
+2021-01-15 18:32:46.4956 - TRACE: [::1.UNKNOWN] Home.Contact()

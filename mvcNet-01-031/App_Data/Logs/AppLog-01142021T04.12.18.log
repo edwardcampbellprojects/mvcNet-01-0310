@@ -1,0 +1,9 @@
+2021-01-13 16:15:55.8541 - INFO: mvcNet-01, Version=1.0.51.51, Culture=neutral, PublicKeyToken=null v.1.0.51.51 START
+2021-01-13 16:15:55.9020 - TRACE: Test1 Trace Log Entry
+2021-01-13 16:15:55.9020 - DEBUG: Test2 Debug Log Entry
+2021-01-13 16:15:55.9020 - INFO: Test3 Info Log Entry
+2021-01-13 16:15:55.9020 - WARN: Test4 Warning Log Entry
+2021-01-13 16:15:55.9020 - ERROR: Test5 Error Log Entry
+2021-01-13 16:15:55.9020 - FATAL: Test6 Fatal Log Entry
+2021-01-13 16:15:56.0366 - TRACE: Session_Start
+2021-01-13 16:15:56.0745 - TRACE: [::1.UNKNOWN] Home.Contact()

@@ -1,0 +1,39 @@
+﻿@using System.IO
+@{
+    ViewBag.Title = "mvcNet_01_031";
+    string[] readMe = ViewBag.ReadMe;
+
+    string mainText = $"{ViewBag.Title} from mvcNet-01 v 3 ";
+    foreach (string line in readMe)
+    {
+        mainText += line + Environment.NewLine;
+    }
+}
+
+@Html.Partial("_StatusH4")
+
+<div class="jumbotron">
+    <h1>@ViewBag.Title</h1>
+</div>
+
+<div class="row">
+    <div class="col-md-2 shadow-sm">
+        <h2>Index</h2>
+        <p>
+        </p>
+        <p><a class="btn btn-default" href="http://iterDev.com">iterDev.com</a></p>
+    </div>
+    <div class="col-md-7 container">
+        <h1>Main</h1>
+        <div class="panel">
+            <div>
+                <h2>
+                    @mainText;
+                </h2>
+            </div>
+        </div>
+    </div>
+    <div class="border-primary col-md-3 shadow-lg ">
+        <h2>side bar</h2>
+    </div>
+</div>

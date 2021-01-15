@@ -1,0 +1,52 @@
+﻿@model System.Web.Mvc.HandleErrorInfo
+@{
+    ViewBag.Title = "Error";
+    string innerExcMsg = Model.Exception.InnerException == null ? "[no inner exception]" : Model.Exception.InnerException.Message;
+}
+
+<h1 class="text-danger">Error</h1>
+<h2 class="text-danger">An error occurred while processing your request.  Please take note of your last attempted action and contact your Support Organization.</h2>
+@*<p>
+        @Html.LabelForModel(Model.ActionName)
+        @Html.Label(@Model.ActionName)
+    </p>
+    <p>
+        @Html.LabelForModel(Model.ControllerName)
+        @Html.Label(Model.ControllerName)
+    </p>
+    <p>
+        @Html.LabelForModel(Model.Exception.Message)
+        @Html.Label(Model.Exception.Message)
+    </p>
+    <p>
+        @Html.LabelForModel(Model.Exception.InnerException)
+        @Html.Label(innerExcMsg)
+    </p>
+    <p>
+        @Html.LabelForModel(Model.GetType())
+        @Html.Label(Model.GetType().ToString())
+    </p>*@
+
+@{
+    if (Model != null)
+    {
+    <div class="row">
+        <div class="col-md-3 alert-danger">
+            @Html.Label(Model.ControllerName)
+        </div>
+        <div class="col-md-9 alert-danger">
+            @Html.Label(@Model.ActionName)
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12 container alert-warning">
+            <p>
+                @Html.Label(@Model.Exception.Message)
+            </p>
+            <p>
+                @Html.Label(innerExcMsg)
+            </p>
+        </div>
+    </div>
+    }
+}
